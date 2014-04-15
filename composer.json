@@ -1,0 +1,14 @@
+{
+    "name": "richardfullmer/image-bingo-generator",
+    "require": {
+        "symfony/console": "*",
+        "imagine/imagine": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard Fullmer",
+            "email": "richardfullmer@gmail.com"
+        }
+    ]
+}
